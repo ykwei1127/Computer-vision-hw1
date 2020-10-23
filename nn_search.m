@@ -29,7 +29,7 @@ function [] = nn_search(train_images, test_images, d, n)
         if ceil(label1 / 13) ~= ceil(i / 13)
             error_sad = error_sad + 1;
         end
-         if ceil(label2 / 13) ~= ceil(i / 13)
+        if ceil(label2 / 13) ~= ceil(i / 13)
             error_ssd = error_ssd + 1;
         end
     end
