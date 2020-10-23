@@ -1,4 +1,4 @@
-# Computer-vision-hw1
+# Computer vision hw1
 
 ## Run Code Step by Step
 1. Read image data and generate {image_data.mat, eigen.mat} file to keep data.
