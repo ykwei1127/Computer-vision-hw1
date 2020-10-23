@@ -5,11 +5,11 @@
 ```
 Run process_data.m
 ```
-2. Generate eigen.mat, 9 eigenfaces and approximate faces. 
+2. Generate {eigen.mat} file, and output 9 eigenfaces and approximate faces. 
 ```
 Run CV_hw1_a.m
 ```
-3. 
+3. Output error rate.
 ```
 Run CV_hw1_b.m
 ```
